@@ -1,18 +1,29 @@
-# SHABBA Music
+# SHABBA
 
-Independent electronic music and free tools for music makers.
+### You already know what moves you. Now make something with it.
 
-## Tools
+Start with a track, a crate, a sound, or a beat. SHABBA's free music tools help you explore what you love, build from it, play it, and make it your own.
 
-| Project | What it does | Start here |
+[![Four SHABBA tools: Plugins, ARCLINE, Ref2Set, and Visualizer](assets/ecosystem-grid.png)](https://shabbamusic.com)
+
+## Choose your starting point
+
+| Start with | Make or explore | Tool |
 | --- | --- | --- |
-| **SHABBA Plugins** | Free VST3 plugins for macOS on Apple silicon | [Plugin catalog](https://plugins.shabbamusic.com) · [GitHub downloads](https://github.com/Shabbamusic/shabba-plugins/releases/latest) |
-| **Ref2Set** | Turns a reference song into an editable Ableton Live 12 Suite set | [Open Ref2Set](https://analyze.shabbamusic.com) · [Mac download](https://github.com/Shabbamusic/ref2set/releases/latest) |
-| **ARCLINE** | Analyzes a music crate and plans DJ sets by key, tempo, energy, and phrases | [Open ARCLINE](https://set.shabbamusic.com) · [GitHub](https://github.com/Shabbamusic/arcline) |
-| **SHABBA Visualizer** | Browser audio visuals for DJs, producers, VJs, and music video creators | [Open the studio](https://visualizer.shabbamusic.com/studio/) · [GitHub](https://github.com/Shabbamusic/shabba-visualizer) |
+| A track you love | Build an original, editable Ableton starting arrangement | [Ref2Set](https://analyze.shabbamusic.com) · free Mac app; Live 12 Suite required |
+| A crate of tracks | Find a route through key, tempo, energy, and phrasing | [ARCLINE](https://set.shabbamusic.com) · free in your browser |
+| A sound you want to shape | Try instruments and effects in your DAW | [SHABBA Plugins](https://plugins.shabbamusic.com) · 32 free VST3 plugins |
+| Music playing now | Turn a beat into live visuals | [Visualizer Lite](https://visualizer.shabbamusic.com/studio/) · free browser studio |
+
+## Start by pressing play
+
+- [Run the two-minute Visualizer demo](https://visualizer.shabbamusic.com/studio/) and see a sample track move through a scene. No account is needed.
+- [Open ARCLINE](https://set.shabbamusic.com/app/) and explore its example crate and transition planner.
+
+The screenshots above show each tool in use. From left to right, top to bottom: browse the plugin catalog, analyze a crate, explore Ref2Set's website walkthrough, and choose a Visualizer audio source.
 
 ## More from SHABBA
 
 [Main site](https://shabbamusic.com) · [Audio and music](https://audio.shabbamusic.com) · [YouTube: ShabbaSounds](https://www.youtube.com/@ShabbaSounds)
 
-Each project page has its own requirements and download or try-it instructions. Check the repository for current source availability and license terms.
+Each tool has its own requirements, privacy details, and try-it instructions. Check its repository and product page before getting started.
